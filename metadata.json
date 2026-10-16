@@ -1,0 +1,6 @@
+{
+  "name": "EchoNotes",
+  "description": "AI-powered voice intelligence app for recording, live transcription, grounded Gemini summaries, action items, and conversational note Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

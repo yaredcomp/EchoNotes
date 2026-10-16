@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for permanently fixing Gemini HTTP 400 errors with robust API key sanitization, detailed Google error reporting, Retry Transcription and Regenerate AI Summary capabilities, and GitHub App resolution guidance.",
+  "updatedAt": "2026-10-16T22:12:53.745947443Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
